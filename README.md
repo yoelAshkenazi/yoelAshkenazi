@@ -8,20 +8,21 @@
 
 ## 💡 About Me
 
-I am an AI Researcher and Data Scientist specializing in graph problems, machine learning, and algorithm development. Currently pursuing an MSc in Data Science following a BSc in Applied Mathematics, my work focuses on tackling extreme data challenges, multimodal entity resolution, and network security protocols. I thrive in collaborative environments, whether leading complex research initiatives or breaking down advanced mathematical concepts for university students.
+I am an AI Researcher and Data Scientist specializing in graph problems, machine learning, and algorithm development. Currently pursuing an MSc in Data Science following a BSc in Applied Mathematics, my work focuses on tackling extreme data challenges, multimodal entity resolution, and AI utilization in non-conventional domains. I thrive in collaborative environments, whether leading complex research initiatives or breaking down advanced concepts and nurturing new ideas.
 
 ## 🔬 Core Research & Projects
 
 * **Fusion Architecture:** Developing an open-source Python library for the flexible unification of structured intermodal object networks, focusing on advanced entity resolution.
 * **D2CS (Documents Graph Clustering Using LLM Supervision):** Developed a novel approach for document graph clustering and text summarization by integrating Large Language Model (LLM) supervision to enhance structure and analysis.
-* **Graph Alignment Benchmarking:** Evaluating unsupervised network alignment methods (such as IsoRank, REGAL, and PARROT) utilizing rigorous non-parametric statistical testing.
-* **Network Security & Protocols:** Investigating packet sniffing in Azure and engineering custom RTP/RTSP filtering mechanisms utilizing Python.
+* **Graph Alignment Benchmarking:** Evaluating unsupervised network alignment methods (such as IsoRank, REGAL, and PARROT), utilizing rigorous statistical testing and evaluations.
+* **Machine Learning with Missing Data:** Applying machine learning methods and developing new ideas to combat the problems arising from missing data in machine learning.
 
 ## 🛠️ Technical Proficiency
 
-* **Machine Learning & AI:** PyTorch, LangChain, FAISS, Large Language Models (LLMs), Graph Clustering.
-* **Data Science & Visualization:** NetworkX, Plotly, Streamlit, Numerical Analysis, Extreme Missing Data handling.
-* **Software Engineering:** Python, Tkinter, Algorithm Design, System Specifications.
+* **Machine Learning & AI:** PyTorch, LangChain, Large Language Models (LLMs), Graph Clustering.
+* **Data Science & Visualization:** NetworkX, Plotly, Numerical Analysis, Extreme Missing Data handling.
+* **Mathematics & Statistics:** Scipy, Experiment Planning & Building, Teaching.
+* **Software Engineering:** Python, Algorithm Design, System Specifications.
 * **Languages:** Hebrew (Native), English (Fluent), Spanish (Conversational).
 
 ## ♟️ Beyond the Data
