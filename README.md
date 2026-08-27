@@ -2,7 +2,7 @@
 **Data Scientist | AI Researcher | Applied Mathematician**
 
 [![Email](https://img.shields.io/badge/Email-yoelashkenazi12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoelashkenazi12@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/yoel-ashkenazi-851182248/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoel-ashkenazi-851182248/)
 
 ---
 
